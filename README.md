@@ -19,3 +19,8 @@
 ### 7.7 kafka-高吞吐量的分布式发布订阅消息系统
 ### 7.8 zookeeper-分布式的，开放源码的分布式应用程序协调服务
 ### 7.9 ElasticSearch-是一个基于Lucene的搜索服务器
+### 7.10 Impala
+### 7.11 Presto
+### 7.12 Phoenix
+### 7.12 Kylin
+### 7.12 Drill
